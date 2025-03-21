@@ -22,7 +22,7 @@ jobs:
             dist/github-snake-light.svg?palette=github-light
 
       - name: Push Snake Animation to Output
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animation
           path: dist
