@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Vidusha<br>A passionate DevOps Engineer | Software Engineer
+Hi 👋, I'm Vidusha<br> Undergraduate who is passionate about DevOps Engineering and Software Engineering
 
 
 ## 🌐 Socials:
